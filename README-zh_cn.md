@@ -1,5 +1,5 @@
 # hexo-tag-fancybox_img
-在Hexo博客文章或者单页面中加入fancybox（简易相册）。[中文文档](https://github.com/honjun/hexo-tag-fancybox_img/blob/master/README-zh_cn.md)
+在Hexo博客文章或者单页面中加入fancybox（简易相册）。[英文文档](https://github.com/honjun/hexo-tag-fancybox_img/blob/master/README.md)
 
 ## 语法:
 {% fb_img src [caption] %}

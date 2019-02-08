@@ -27,4 +27,3 @@ Add latest jQuery and fancyBox files in theme
 ## Example: 
 
 {% fb_img https://ws3.sinaimg.cn/large/006bYVyvly1fxxewq3plij30yn0jjkjl.jpg sakura %}
-
