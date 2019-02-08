@@ -1,0 +1,17 @@
+{
+  "name": "hexo-tag-fancybox_img",
+  "version": "1.0.0",
+  "description": "Embed fancybox.js in Hexo posts/pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "hexo",
+    "img",
+    "fancybox",
+    "album"
+  ],
+  "author": "hojun",
+  "license": "ISC"
+}
